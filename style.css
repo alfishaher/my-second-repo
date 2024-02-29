@@ -1,0 +1,15 @@
+h1{
+    background-color: rgb(225, 191, 191);
+    border: 5px double black;
+    border-radius: 5px 10px;
+    width: 300px;
+    text-align: center;
+    padding: 2px;
+    
+    margin: 20px;
+}
+h2{
+    text-align: center;
+   
+}
+*{background-color: burlywood;}
